@@ -53,11 +53,11 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 **OpenJDK 17 (ou superior)**
 
 # 💼📊Equipe:
-- [Gustavo Henrique Chaves de Carvalho](https://github.com/GustavoHenrique07):
+- [Gustavo Henrique Chaves de Carvalho](https://github.com/GustavoHenrique07): \n
   *Responsável pela Idealização,organização do projeto e a implementação das telas de login,seleção e de ajuda.
-- [Isadora Braide da Silva.](https://github.com/isadorabraide):
+- [Isadora Braide da Silva.](https://github.com/isadorabraide):\n
   *Responsável pela implementação da Calculadora de IMC.
-- [Isabelle Silva Castello Branco.](https://github.com/isabellecastello):
+- [Isabelle Silva Castello Branco.](https://github.com/isabellecastello):\n
   *Responsável pela implementação do Jogo da Velha.
-- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz)
+- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz):\n
   *Responsável pela Organização do projeto e Criação da Empresa.
