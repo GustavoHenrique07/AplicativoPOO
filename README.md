@@ -1,4 +1,6 @@
-
+<div align ="center">
+  <img src="https://github.com/GustavoHenrique07/AplicativoPOO/blob/main/ProjetoSa%C3%BAdeEmJogo/Programa/src/resources/Logo.jpg" width = "500px"/>
+  </div>
 <h1>
 Projeto Saúde em Jogo
 </h1>
