@@ -5,7 +5,7 @@ Projeto Saúde em Jogo
 
 
 * [Sobre](#Sobre)
-* [Features](#Features)
+* [Features](#Características-Implementadas)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Linguagem](#Linguagem)
 * [Equipe](#Equipe)
