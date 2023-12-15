@@ -1,7 +1,6 @@
-# AplicativoPOO
 
 <h1>
-*Projeto Saúde em Jogo
+* ## Projeto Saúde em Jogo
 </h1>
 
 
@@ -14,11 +13,11 @@
 # Sobre:
   
 <h3>
-  *Projeto realizado para a nota da segunda etapa do semestre 2023.2(N2) na matéria de Programação Orientada a Objetos(POO).
+  * ## Projeto realizado para a nota da segunda etapa do semestre 2023.2(N2) na matéria de Programação Orientada a Objetos(POO).
   </h3>
   
 <h3>
-  *O projeto apresenta de forma dinamica um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
+  * ## O projeto apresenta de forma dinamica um aplicativo que inclui uma calculadora de imc e um clássico jogo da velha.
   </h3>
   
 # 💡Caracteristicas implementadas:
