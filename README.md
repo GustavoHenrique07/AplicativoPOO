@@ -50,7 +50,7 @@ De preferência utilizando a IDE netbeans,após baixar por este github todo o pr
 
 # 📚Bibliotecas: 
 - [Biblioteca Swing](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
--[Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
+- [Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 
 # Stack:
 **Apache Netbeans 19**
