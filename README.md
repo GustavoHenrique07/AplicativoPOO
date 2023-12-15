@@ -8,6 +8,10 @@ Projeto Saúde em Jogo
 * [Características Implementadas](#Características-Implementadas)
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Linguagem](#Linguagem)
+* [Como Executar](#Como-Executar)
+* [Requerimentos](#Requerimentos)
+* [Bibliotecas](#Bibliotecas)
+* [Stack](#Stack)
 * [Equipe](#Equipe)
 
 # Sobre:
@@ -36,28 +40,27 @@ Projeto Saúde em Jogo
 * ## Java (Swing)
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## ❓Como executar:
+# ❓Como executar:
 De preferência utilizando a IDE netbeans,após baixar por este github todo o programa inserido no repositório.
 
-## ❓Requerimentos:
+# ❓Requerimentos:
 **Java 17 (ou superior)**
 
-### 📚Bibliotecas: 
+# 📚Bibliotecas: 
 - [Biblioteca Swing] (https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 - [Biblioteca AWT](https://homepages.dcc.ufmg.br/~fsantos/ECOi06/aulaSwingSWT.pdf)
 
-
-## Stack:
+# Stack:
 **Apache Netbeans 19**
 
 **OpenJDK 17 (ou superior)**
 
 # 💼📊Equipe:
-- [Gustavo Henrique Chaves de Carvalho](https://github.com/GustavoHenrique07): \n
-  *Responsável pela Idealização,organização do projeto e a implementação das telas de login,seleção e de ajuda.
-- [Isadora Braide da Silva.](https://github.com/isadorabraide):\n
-  *Responsável pela implementação da Calculadora de IMC.
-- [Isabelle Silva Castello Branco.](https://github.com/isabellecastello):\n
-  *Responsável pela implementação do Jogo da Velha.
-- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz):\n
-  *Responsável pela Organização do projeto e Criação da Empresa.
+- [Gustavo Henrique Chaves de Carvalho](https://github.com/GustavoHenrique07):
+  Responsável pela Idealização,organização do projeto e a implementação das telas de login,seleção e de ajuda.
+- [Isadora Braide da Silva.](https://github.com/isadorabraide):
+  Responsável pela implementação da Calculadora de IMC.
+- [Isabelle Silva Castello Branco.](https://github.com/isabellecastello):
+  Responsável pela implementação do Jogo da Velha.
+- [Maria Eduarda de Queiroz Lima.](https://github.com/MEduardaQueiroz):
+  Responsável pela Organização do projeto e Criação da Empresa.
